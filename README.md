@@ -2,6 +2,8 @@
 a.	Register Number, Name, Time and date of submission, Preference of language {Option1, Option2, Option3}
 b.	Devise a solution that would automate the process of allocating the languages based on the order of preference given by students. Use appropriate data structures to process the data. Include provision for swapping of the language that has been allocated for a student on mutual consent. */
 
+How to impliment this with QUEUE ADT?
+
 //C program for stable matching of language based on the preference given by the student.
 #include<stdio.h>
 #include<stdlib.h>
